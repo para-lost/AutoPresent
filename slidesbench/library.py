@@ -1,7 +1,7 @@
 from pptx.util import Inches, Pt
 from pptx.dml.color import RGBColor
 from pptx.enum.text import MSO_AUTO_SIZE
-from mysearchlib import GoogleSearch, Dalle3, LLM
+from SlidesLib import GoogleSearch, Dalle3, LLM
 
 
 def add_title(
