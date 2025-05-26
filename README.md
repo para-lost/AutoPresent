@@ -65,7 +65,7 @@ To generate programs to create slide for the entire slide deck:
 
 ```bash
 # sufficient instruction setting
-python create_slide_deck.py --slide_deck "art_photos" --setting "perfect"
+python create_slide_deck.py --slide_deck "art_photos" --setting "sufficient"
 
 # visual absence setting
 python create_slide_deck.py --slide_deck "art_photos" --setting "visual"
