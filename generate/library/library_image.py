@@ -1,4 +1,4 @@
-from mysearchlib import GoogleSearch, Dalle3
+from SlidesLib import GoogleSearch, Dalle3
 
 def google_search_screenshot(question: str, save_path: str = "screenshot.png") -> str:
     """
